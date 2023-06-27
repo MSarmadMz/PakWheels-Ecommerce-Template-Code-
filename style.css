@@ -1,0 +1,198 @@
+a {
+  margin-left: 4cm;
+  font-size: large;
+  color: blue;
+}
+#redElement {
+  color: white;
+  background-color: brown;
+  margin-left: 4.5cm;
+  font-size: 0.7cm;
+  border-radius: 0.25cm;
+  text-decoration: none;
+}
+#blueElement {
+  color: white;
+  background-color: blue;
+  margin-left: 11cm;
+  font-size: 0.7cm;
+  border-radius: 0.25cm;
+  text-decoration: none;
+}
+#aF {
+  color: white;
+  margin-left: 0cm;
+  text-decoration: none;
+}
+#a2 {
+  margin-left: 1cm;
+  color: brown;
+}
+#sI {
+  color: white;
+  margin-left: 1.7cm;
+  font-size: .7cm;
+  text-decoration: none;
+}
+#pA {
+  color: white;
+  background-color: red;
+  margin-left: 1.6cm;
+  font-size: 0.6cm;
+  border-radius: 0.2cm;
+  font-weight: lighter;
+  text-decoration: none;
+}
+h1 {
+  color: white;
+  margin-left: 3cm;
+}
+#nC {
+  color: red;
+  margin-left: 3cm;
+}
+#uC {
+  color: white;
+  margin-left: 1cm;
+  text-decoration: none;
+}
+ul
+{
+  position:fixed;
+  top: 0;
+  width: 100%;
+  background-color: darkblue;
+  list-style-type:none ;
+  margin: 0;
+  padding: 0;
+  border-color: black;
+}
+li
+{
+  float: left;
+}
+li a :hover
+{
+  background-color: black;
+}
+#nCC {
+  color: white;
+  margin-left: 1cm;
+  text-decoration: none;
+}
+#bi {
+  color: white;
+  margin-left: 1cm;
+  text-decoration: none;
+}
+#aS {
+  font-size: 0.5cm;
+  color: white;
+  margin-left: 1cm;
+  text-decoration: none;
+}
+#vi {
+  font-size: 0.5cm;
+  color: white;
+  margin-left: 1cm;
+  text-decoration: none;
+}
+#fo {
+  font-size: 0.5cm;
+  color: white;
+  margin-left: 1cm;
+  text-decoration: none;
+}
+#bl {
+  font-size: 0.5cm;
+  color: white;
+  margin-left: 1cm;
+  text-decoration: none;
+}
+#mo {
+  font-size: 0.5cm;
+  color: white;
+  margin-left: 1cm;
+  text-decoration: none;
+}
+body {
+  background-color: black;
+}
+form {
+  background-color: brown;
+}
+#l1 {
+  margin-left: 0.5cm;
+  color: white;
+}
+#l2 {
+  color: white;
+  font-weight: lighter;
+  font-size: 1.15cm;
+}
+#l3 {
+  color: white;
+  font-weight: lighter;
+  font-size: 0.55cm;
+}
+input {
+  width: 17cm;
+  margin-right: 0cm;
+  height: 1cm;
+  background-color: white;
+}
+#i2 {
+  height: 0.65cm;
+  border-radius: 0.2cm;
+}
+#l4 {
+  color: gray;
+  font-size: 0.75cm;
+}
+#l5 {
+  color: brown;
+  margin-left: 4.4cm;
+  font-size: 0.6cm;
+}
+#l6 {
+  margin-left: 7.7cm;
+  color: brown;
+  font-size: 0.6cm;
+}
+#fort {
+  color: lightblue;
+  margin-left: 3.7cm;
+}
+#mg {
+  color: lightblue;
+  margin-left: 4.2cm;
+  text-decoration: none;
+}
+#mb {
+  color: lightblue;
+  margin-left: 4.8cm;
+  text-decoration: none;
+}
+#ad {
+  color: lightblue;
+  margin-left: 5.2cm;
+}
+#bmw {
+  color: lightblue;
+  margin-left: 5.8cm;
+}
+#pt {
+  color: lightblue;
+  margin-left: 5.1cm;
+}
+#ks {
+  color: lightblue;
+  margin-left: 5.1cm;
+}
+#rr {
+  color: lightblue;
+  margin-left: 3.7cm;
+}
+#f1 {
+  background-color: transparent;
+}

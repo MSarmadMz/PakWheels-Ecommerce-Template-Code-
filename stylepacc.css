@@ -1,0 +1,26 @@
+body
+   {
+      background-color:black;
+   }
+   form,table
+   {
+      background-color:brown;
+   }
+   tr
+   {
+      border-bottom:1px solid grey;
+   }
+   label,table,h2
+   {
+      margin-left:4cm;
+      font-family:bold;
+      color:white;
+   }
+   input
+   {
+      background-color:transparent;
+   } 
+   th
+   {
+    font-size:.6cm;
+   }
