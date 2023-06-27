@@ -1,0 +1,469 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <title>PAKWHEELS</title>
+    <link rel="stylesheet" href="style.css" />
+    <link rel="shortcut icon" href="/images/favicon.ico" type="image/x-icon" />
+  </head>
+  <br />
+  <body>
+    <br />
+    <div>
+      <center>
+        <form>
+          <a id="sI" href="https://www.pakwheels.com/logout" target="_blank">
+            Sign Up | Sign In</a
+          >
+          <label id="l1">
+            ____________________________________________________________________________________________________________________________________________________________
+          </label>
+          <br />
+          <br />
+
+          <img
+            style="width: 4.75cm; margin-left: 0.8 cm"
+            src="images/new-pw-logo-white-b8b4c00b25fde9cc8f514dc4947c266a.svg"
+          />
+          <a
+            id="uC"
+            href="https://www.pakwheels.com/used-cars/"
+            target="_blank"
+          >
+            Used Cars ^</a
+          >
+          <a
+            id="nCC"
+            href="https://www.pakwheels.com/new-cars/"
+            target="_blank"
+          >
+            New Cars ^</a
+          >
+          <a id="bi" href="https://www.pakwheels.com/bikes/" target="_blank">
+            Bikes ^</a
+          >
+          <a
+            id="aS"
+            href="https://www.pakwheels.com/accessories-spare-parts/"
+            target="_blank"
+          >
+            Auto Store ^</a
+          >
+          <a id="vi" href="https://www.pakwheels.com/videos/" target="_blank">
+            Videos</a
+          >
+          <a
+            id="fo"
+            href="https://www.pakwheels.com/forums/top/all"
+            target="_blank"
+          >
+            Forums</a
+          >
+          <a id="bl" href="https://www.pakwheels.com/blog/" target="_blank">
+            Blogs</a
+          >
+          <a id="mo" href=""> More ^</a>
+
+          <a
+            id="pA"
+            href="http://localhost/ecommerce%20template/postanadd.php"
+            target="_blank"
+          >
+            Post an Ad ^</a
+          >
+
+          <br />
+          <br />
+          <br />
+          <br />
+          <br />
+          <br />
+          <label id="l2"> Find Used Cars In Pakistan </label>
+          <br />
+          <label id="l3">
+            With thousands of Cars,we have just the right one for You
+          </label>
+          <br />
+          <br />
+          <input
+            placeholder="  Car Make or Model                  
+                   |    All Cities                        ^  |    Price Range                            ^ |  
+         "
+            type="Text"
+            name="Car Make"
+          />
+
+          <img id="i2" src="glass-symbol.jpg" alt="" />
+
+          <br />
+          <br />
+          <br />
+          <a
+            id="aF"
+            href="https://www.pakwheels.com/used-cars/search/-/"
+            target="_blank"
+          >
+            Advanced Filter &nbsp;>
+          </a>
+          <br />
+          <br />
+          <br />
+          <br />
+        </form>
+      </center>
+    </div>
+    <center>
+      <br />
+      <br />
+      
+      <label id="l4">Sell Your Car on PakWheels and Get the Best Price </label>
+    </center>
+\
+    <br />
+    <br />
+   
+    <form action="action" id="f1">
+      <fieldset>
+        <legend>
+      
+          <label id="l5"> Post your Add on PakWheels</label>
+          <label id="l6">Try PakWheels Sell It For Me </label>
+    </legend
+        <br />
+        <br />
+        <br />
+
+        <label style="color: green; font-weight: bolder; margin-left: 4.4cm"
+          >&#10003;
+        </label>
+
+        <label style="color: white">
+          &nbsp;&nbsp; Post your Ad for Free in 3 Easy Steps</label
+        >
+
+        <label style="color: green; font-weight: bolder; margin-left: 7.7cm"
+          >&#10003;
+        </label>
+
+        <label style="color: white">
+          &nbsp;&nbsp; Dedicated Sales Expert to Sell your Car
+        </label>
+
+        <br />
+
+        <label style="color: green; font-weight: bolder; margin-left: 4.4cm"
+          >&#10003;
+        </label>
+
+        <label style="color: white">
+          &nbsp;&nbsp; Get Genuine offers from Verified Buyers</label
+        >
+
+        <label style="color: gray; font-size: 0.9cm; margin-left: 4cm">
+          OR
+        </label>
+
+        <label style="color: green; font-weight: bolder; margin-left: 1.7cm"
+          >&#10003;
+        </label>
+
+        <label style="color: white">
+          &nbsp;&nbsp; We Bargain for you and you Share the Best offer</label
+        >
+
+        <br />
+        <br />
+
+        <label style="color: green; font-weight: bolder; margin-left: 4.4cm"
+          >&#10003;
+        </label>
+
+        <label style="color: white">
+          &nbsp;&nbsp; Sell your Car Fast at the Best Price</label
+        >
+
+        <label style="color: green; font-weight: bolder; margin-left: 8.2cm"
+          >&#10003;
+        </label>
+
+        <label style="color: white">
+          &nbsp;&nbsp; We ensure Safe and Secure Transaction</label
+        >
+
+        <br />
+        <br />
+
+        <a
+          id="redElement"
+          href="https://www.pakwheels.com/used-cars/sell/post-ad"
+          target="_blank"
+        >
+          Post Your AD</a
+        >
+        <a
+          id="blueElement"
+          href="https://www.pakwheels.com/products/pakwheels-sell-it-for-me/new"
+          target="_blank"
+        >
+          Register Your Car</a
+        >
+        <br />
+        <br />
+      </fieldset>
+    </form>
+
+    <br />
+
+    <br />
+    <center>
+      <img
+        style="width: 30cm; height: 7.3cm"
+        src="2824926568017176969.jpeg"
+        alt=""
+      />
+    </center>
+
+    <br />
+
+    <h1 id="nC">New Cars By Make</h1>
+    <br />
+
+    <button style="margin-left: 2.5cm; background-color: transparent">
+      <img src="580b57fcd9996e24bc43c498.png" alt="" />
+    </button>
+
+    <button style="margin-left: 1.3cm; background-color: transparent">
+      <img src="Audi.png" alt="" />
+    </button>
+
+    <button style="margin-left: 1.3cm; background-color: transparent">
+      <img src="porche.png" alt="" />
+    </button>
+    <button style="margin-left: 1.6cm; background-color: transparent">
+      <img src="BMW.png" alt="" />
+    </button>
+    <button style="margin-left: 1.4cm; background-color: transparent">
+      <img src="KIA.png" alt="" />
+    </button>
+    <button style="margin-left: 2cm; background-color: transparent">
+      <img src="mercedes.png" alt="" />
+    </button>
+
+    <br />
+    <a href="https://www.pakwheels.com/new-cars/mg/" target="_blank"> MG</a>
+    <a href="https://www.pakwheels.com/new-cars/audi/" target="_blank"> Audi</a>
+
+    <a href="https://www.pakwheels.com/new-cars/porsche/" target="_blank">
+      Porsche</a
+    >
+
+    <a href="https://www.pakwheels.com/new-cars/bmw/" target="_blank"> BMW</a>
+    <a href="https://www.pakwheels.com/new-cars/kia/" target="_blank">KIA</a>
+    <a href="https://www.pakwheels.com/new-cars/mercedes-benz/" target="_blank"
+      >Mercedes Benz
+    </a>
+    <br />
+    <br />
+    <br />
+    <br />
+
+    <label style="color: red; margin-left: 3cm; font-size: 0.8cm">
+      Managed By PakWheels</label
+    >
+    <br />
+    <br />
+    <br />
+    <img
+      style="margin-left: 3.1cm; border-radius: 0.7cm; width: 6.1cm"
+      src="https://cache3.pakwheels.com/ad_pictures/7296/Slide_mg-hs-2-1-5-turbo-2022-72963477.jpg"
+      alt=""
+    />
+    <img
+      style="
+        margin-left: 2.2cm;
+        border-radius: 0.5cm;
+        width: 5.7cm;
+        height: 4cm;
+      "
+      src="https://cache2.pakwheels.com/ad_pictures/7119/Slide_audi-a6-1-8-tfsi-business-class-edition-2018-71193548.jpg"
+      alt=""
+    />
+    <img
+      style="
+        margin-left: 2.5cm;
+        width: 5.7cm;
+        border-radius: 0.5cm;
+        height: 4.75cm;
+      "
+      src="https://cache2.pakwheels.com/ad_pictures/7014/Slide_bmw-7-series-740-le-xdrive-2019-70149377.jpg"
+      alt=""
+    />
+    <img
+      style="margin-left: 2cm; border-radius: 0.6cm; width: 6.1cm; height: 4cm"
+      src="https://cache2.pakwheels.com/ad_pictures/7081/Slide_mercedes-benz-e-class-e-200-2018-70812706.jpg"
+      alt=""
+    />
+    <br />
+    <br />
+    <a
+      id="mg"
+      href="https://www.pakwheels.com/used-cars/mg-hs-2022-for-sale-in-lahore-6682680"
+      target="_blank"
+    >
+      MG HS 1.5 Turbo</a
+    >
+    <a
+      id="ad"
+      href="https://www.pakwheels.com/used-cars/audi-a6-2018-for-sale-in-lahore-6554583"
+      target="_blank"
+    >
+      Audi A6 1.8</a
+    >
+
+    <a
+      id="bmw"
+      href="https://www.pakwheels.com/used-cars/bmw-7-series-2019-for-sale-in-karachi-6480179"
+      target="_blank"
+    >
+      BMW 740LE
+    </a>
+    <a
+      id="mb"
+      href="https://www.pakwheels.com/used-cars/mercedes-benz-e-class-2018-for-sale-in-islamabad-6525599"
+      target="_blank"
+    >
+      Mercedes Benz E200</a
+    >
+
+    <br />
+    <br />
+    <label style="color: green; margin-left: 4.2cm">PKR 77 Lacs</label>
+    <label style="color: green; margin-left: 6.4cm">PKR 149 Lacs</label>
+    <label style="color: green; margin-left: 5.7cm">PKR 500 Lacs</label>
+    <label style="color: green; margin-left: 5cm">PKR 198 Lacs</label>
+
+    <br />
+    <br />
+    <br />
+
+    <img
+      style="margin-left: 3cm; border-radius: 0.5cm; width: 6cm"
+      src="https://cache3.pakwheels.com/ad_pictures/7365/Slide_toyota-fortuner-2-7-automatic-2019-73657606.jpg"
+      alt=""
+    />
+    <img
+      style="margin-left: 2.5cm; border-radius: 0.5cm; width: 5.5cm"
+      src="https://cache3.pakwheels.com/ad_pictures/6899/Slide_porsche-taycan-turbo-6-2021-68992403.jpg"
+      alt=""
+    />
+    <img
+      style="
+        margin-left: 2.7cm;
+        border-radius: 0.35cm;
+        width: 5.7cm;
+        height: 4.5cm;
+      "
+      src="https://cache2.pakwheels.com/ad_pictures/6115/Slide_kia-sportage-awd-2022-61152690.jpg"
+      alt=""
+    />
+    <img
+      style="margin-left: 2.5cm; border-radius: 0.5cm; width: 5.5cm"
+      src="https://cache3.pakwheels.com/ad_pictures/7294/Slide_range-rover-autobiography-2018-72947355.jpg"
+      alt=""
+    />
+    <br />
+    <br />
+
+    <a
+      id="fort"
+      href="https://www.pakwheels.com/used-cars/toyota-fortuner-2019-for-sale-in-lahore-6497570"
+      target="_blank"
+    >
+      Toyota Fortuner 2.7
+    </a>
+    <a
+      id="pt"
+      href="https://www.pakwheels.com/used-cars/porsche-taycan-2021-for-sale-in-lahore-6391872"
+      target="_blank"
+    >
+      Porsche Taycan</a
+    >
+
+    <a
+      id="ks"
+      href="https://www.pakwheels.com/used-cars/kia-sportage-2022-for-sale-in-islamabad-5801776"
+      target="_blank"
+    >
+      Kia Sportage AWD</a
+    >
+    <a
+      id="rr"
+      href="https://www.pakwheels.com/used-cars/range-rover-autobiography-2015-for-sale-in-karachi-6650539"
+      target="_blank"
+    >
+      Range Rover Autobiography</a
+    >
+    <br />
+    <br />
+    <label style="color: green; margin-left: 3.7cm"> PKR 125 Lacs</label>
+    <label style="color: green; margin-left: 6.4cm"> PKR 425 Lacs</label>
+    <label style="color: green; margin-left: 5.7cm"> PKR 71.50 Lacs</label>
+    <label style="color: green; margin-left: 5.7cm"> PKR 550 Lacs</label>
+
+    <br />
+    <br />
+    <br />
+    <br />
+    <br />
+    <form>
+      <br />
+      <h1>Get The PakWheels App</h1>
+      <label style="color: white; margin-left: 3cm; font-size: 0.5cm">
+        Buy and Sell Cars, Bikes and AutoParts faster and
+      </label>
+      <br />
+      <label style="color: white; margin-left: 3cm; font-size: 0.5cm"
+        >better using our App</label
+      >
+      <br />
+
+      <img
+        style="width: 3cm; margin-left: 3cm"
+        src="google-play-badge-f4bed6cbd8a3a1be7c79377c4441447a.svg"
+        alt=""
+      />
+      <img
+        style="width: 3cm"
+        src="app-store-badge-4d05ff70e5546f31e3891739ea40abad.svg"
+        alt=""
+      />
+      <img
+        style="width: 3cm"
+        src="huawei-store-badge-7ad06f9ffe74b644d49c6221af98f5b3.svg"
+        alt=""
+      />
+
+      <img
+        style="width: 5cm; margin-left: 5cm; height: 2cm"
+        src="app-install-qr-code-281c1dc2396c1735eadfe5f80c020673.svg"
+        alt=""
+      />
+      <label style="color: white; font-size: large"> Scan The QR </label>
+      <br />
+      <label style="color: white; margin-left: 22.45cm; font-size: large">
+        to get the App</label
+      >
+
+      <br />
+      <br />
+    </form>
+
+    <br />
+    <br />
+    <a id="a2" href="#"> JumpToTop</a>
+  </body>
+</html>
+
+
+
+
+
